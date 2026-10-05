@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/guada/OneDrive/Documentos/UNIVERSIDAD/2P/PyPanaderia/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/guada/OneDrive/Documentos/UNIVERSIDAD/2P/PyPanaderia/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PyPanaderia 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PyPanaderia 1.0-SNAPSHOT API'
+Modelo
+pypanaderia
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\src\main\java = 1790694663369
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\allclasses-index.html = 1790698739184
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\allpackages-index.html = 1790698739188
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\element-list = 1790698739105
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\help-doc.html = 1790698739222
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\index-all.html = 1790698739211
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\index.html = 1790698739167
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\member-search-index.js = 1790698739193
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\module-search-index.js = 1790698739190
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\overview-summary.html = 1790698739217
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\overview-tree.html = 1790698739164
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\package-search-index.js = 1790698739191
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\search.html = 1790698739214
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\tag-search-index.js = 1790698739195
+C:\Users\guada\OneDrive\Documentos\UNIVERSIDAD\2P\PyPanaderia\target\reports\apidocs\type-search-index.js = 1790698739192
