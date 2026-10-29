@@ -81,9 +81,9 @@ public class Usuario {
                     "La contraseña no puede ser nula.");
         }
 
-        if (contraseña.length() < 8 || contraseña.length() > 10) {
+        if (contraseña.length() < 4 || contraseña.length() > 10) {
             throw new IllegalArgumentException(
-                    "La contraseña debe tener entre 8 y 10 caracteres.");
+                    "La contraseña debe tener entre 4 y 10 caracteres.");
         }
 
         this.contraseña = contraseña;
