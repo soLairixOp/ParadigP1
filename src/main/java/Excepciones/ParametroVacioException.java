@@ -1,5 +1,5 @@
-package Modelo;
-public class ParametroVacioException extends Exception{
+package Excepciones;
+public class ParametroVacioException extends RuntimeException{
 
     public ParametroVacioException(String message) {
         super(message);

@@ -1,4 +1,4 @@
-package Modelo;
+package Excepciones;
 public class PedidoVacioException extends Exception{
 
     public PedidoVacioException(String message) {
