@@ -41,8 +41,7 @@ public class Productos {
     public void setId(int id) {
 
         if (id <= 0) {
-            throw new IllegalArgumentException(
-                    "El ID debe ser mayor que 0");
+            throw new IllegalArgumentException("El ID debe ser mayor que 0");
         }
 
         this.id = id;
@@ -55,8 +54,7 @@ public class Productos {
     public void setNombre(String nombre) {
 
         if (nombre == null || nombre.isBlank()) {
-            throw new IllegalArgumentException(
-                    "Nombre inválido");
+            throw new IllegalArgumentException("Nombre inválido");
         }
 
         nombre = nombre.trim();
@@ -66,8 +64,7 @@ public class Productos {
 
         for (String palabra : palabras) {
 
-            sb.append(Character.toUpperCase(palabra.charAt(0))
-            );
+            sb.append(Character.toUpperCase(palabra.charAt(0)));
 
             if (palabra.length() > 1) {
                 sb.append(palabra.substring(1).toLowerCase());
